@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Eclipse / IntelliJ project files
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+out/
+
+# VS Code
+.vscode/
